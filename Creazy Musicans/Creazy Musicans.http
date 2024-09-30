@@ -1,0 +1,6 @@
+@Creazy_Musicans_HostAddress = http://localhost:5232
+
+GET {{Creazy_Musicans_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
